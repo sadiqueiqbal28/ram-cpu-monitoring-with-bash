@@ -1,0 +1,6 @@
+- To execute the following script
+- Clone the repository in your Linux/UNIX based machine
+- Give executable permissions
+- > chmod +x script.sh
+- To execute the script:
+- > bash script.sh
